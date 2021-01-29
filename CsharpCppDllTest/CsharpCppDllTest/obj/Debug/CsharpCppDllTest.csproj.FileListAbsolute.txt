@@ -1,0 +1,13 @@
+F:\code\C#\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.exe.config
+F:\code\C#\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.exe
+F:\code\C#\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.pdb
+F:\code\C#\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.csprojAssemblyReference.cache
+F:\code\C#\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.csproj.CoreCompileInputs.cache
+F:\code\C#\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.exe
+F:\code\C#\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.pdb
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.exe.config
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.exe
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\bin\Debug\CsharpCppDllTest.pdb
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.csproj.CoreCompileInputs.cache
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.exe
+F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\obj\Debug\CsharpCppDllTest.pdb

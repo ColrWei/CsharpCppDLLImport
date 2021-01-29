@@ -1,0 +1,6 @@
+﻿d:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(DllTest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  dllmain.cpp
+  TestDll.cpp
+  正在生成代码...
+    正在创建库 F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\Debug\DllTest(SumSub).lib 和对象 F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\Debug\DllTest(SumSub).exp
+  DllTest.vcxproj -> F:\code\C#\CsharpCppDllTest\CsharpCppDllTest\Debug\DllTest(SumSub).dll
